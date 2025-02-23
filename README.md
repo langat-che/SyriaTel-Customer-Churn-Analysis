@@ -48,6 +48,7 @@ The project followed a structured workflow:
 
 ### Visualisations
 #### Observation 1
+![alt text](<Screenshot from 2025-02-23 20-36-04.png>)
 Key Insights:​
 - Texas (18), New York (16), and California (14) have the highest churn rates, suggesting possible dissatisfaction or competitive markets.​
 - States with lower churn (e.g., South Dakota, Nebraska, and Kansas) may have more stable customer bases.​
@@ -55,10 +56,12 @@ Key Insights:​
 
 
 #### Observation 2
+![alt text](<Screenshot from 2025-02-23 20-10-39.png>)
 Key Insight:
 - Customers with an international plan churn at a higher rate than those without one.
 
 #### Observation 3
+![alt text](<Screenshot from 2025-02-23 19-46-12.png>)
 Key Insights​:
 - Having an international plan is the strongest indicator of churn, reinforcing earlier findings.​
 - High customer service call frequency suggests dissatisfaction, making it a critical churn predictor.​
@@ -66,6 +69,7 @@ Key Insights​:
 - Geographic location meaning various states in the US plays a role, possibly due to regional service differences.
 
 #### Observation 4
+![alt text](<Screenshot from 2025-02-23 20-39-53.png>)
 Key Insights​:
 - Strong correlations exist between total minutes, total calls, and total charges for day, evening, and night categories but this is expected since charges are based on usage.​
 - Customer service calls show little correlation with other features, meaning complaints might not be linked directly to call usage.
